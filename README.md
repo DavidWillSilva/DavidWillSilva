@@ -19,10 +19,10 @@ I am always looking for new challenges related to the areas of technology, innov
 	
 </div>
 
-## Tools
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkrevicz)
 
 ## My Contributions
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidWillSilva&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DavidWillSilva/dio-lab-open-source)
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DavidWillSilva&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=30A3DC&text_color=FFF&border_radius=3&border_color=30A3DC&icon_color=30A3DC&theme=jolly)
